@@ -1,8 +1,9 @@
 <h1>COVID-19 Global Vaccine Tracker</h1>
 
-<h2>Overview </h2>
+<h2>Objective </h2>
 
-<b>Management is seeking insights into the company's sales performance and trends spanning from 2016 to 2018. They are particularly interested in understanding sales volume dynamics, revenue distribution across regions, stores, and product categories, as well as identifying top customers and sales representatives. Utilizing SQL Server Management Studio (SSMS), data was processed and extracted to address these key areas of interest. The extracted data was then visualized using Tableau to develop an interactive executive dashboard.</b>
+<b>
+The primary goal of this project is to provide a comprehensive overview of the COVID-19 vaccination progress worldwide, focusing on the population's vaccination status, including partially vaccinated, fully vaccinated, and unvaccinated individuals. Additionally, the project aims to analyze the proportion of the population that is fully vaccinated and assess its impact on the GDP per capita of countries.</b>
 
 <p align="center">
  <br/>
