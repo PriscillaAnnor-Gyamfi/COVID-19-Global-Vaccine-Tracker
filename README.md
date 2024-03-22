@@ -15,8 +15,16 @@ The primary goal of this project is to provide a comprehensive overview of the C
 - <b>Geographic Mapping: Visualize the vaccination coverage geographically using choropleth maps to depict regional disparities and trends.</b>
 
 
+<h2>Dashboard Features </h2>
+
+- <b>Interactive Filters: Allow users to filter data based on parameters such as date range, geographical country and continent.</b>
+- <b>Drill-Down Functionality: Enable users to explore detailed information by clicking on specific countries or continent to view vaccination metrics and associated GDP per capita.</b>
+- <b>Dynamic Data Updates: Implement automated data fetching and updating mechanisms to ensure that the dashboard reflects the most recent vaccination and GDP data.</b>
+- <b>User-Friendly Interface: Design an intuitive and visually appealing dashboard layout with clear navigation and informative tooltips to enhance user experience.
+</b>
 
 
+<h2>Screenshot of the COVID-19 Vaccine Tracker Dasboard produced using Tableau </h2>
 <p align="center">
  <br/>
 <img src="https://i.imgur.com/00hsrds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
