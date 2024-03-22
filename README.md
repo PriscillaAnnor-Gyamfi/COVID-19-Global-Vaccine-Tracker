@@ -8,12 +8,14 @@ The primary goal of this project is to provide a comprehensive overview of the C
 
 <h2>Key Metrics and Visualizations </h2>
 
-<b>
-Population Vaccination Status: Visualize the number of individuals who are partially vaccinated, fully vaccinated, and not vaccinated at all, aggregated at the country level.
-Proportion of Population Fully Vaccinated: Calculate and display the percentage of the population that has completed the full vaccination regimen in each country.
-Trend Analysis: Track the progress of vaccination rates over time, starting from the project's specified start date (9/4/2020) to the end date (7/2/2022), using interactive line charts or time series plots.
-GDP Per Capita Comparison: Compare the GDP per capita of countries with their vaccination rates to analyze any correlation or impact of vaccination on economic indicators.
-Geographic Mapping: Visualize the vaccination coverage geographically using choropleth maps to depict regional disparities and trends.</b>
+- <b>Population Vaccination Status: Visualize the number of individuals who are partially vaccinated, fully vaccinated, and not vaccinated at all, aggregated at the country level.</b>
+- <b>Proportion of Population Fully Vaccinated: Calculate and display the percentage of the population that has completed the full vaccination regimen in each country.</b>
+- <b>Trend Analysis: Track the progress of vaccination rates over time, starting from the project's specified start date (9/4/2020) to the end date (7/2/2022), using interactive line charts or time series plots.</b>
+- <b>GDP Per Capita Comparison: Compare the GDP per capita of countries with their vaccination rates to analyze any correlation or impact of vaccination on economic indicators.</b>
+- <b>Geographic Mapping: Visualize the vaccination coverage geographically using choropleth maps to depict regional disparities and trends.</b>
+
+
+
 
 <p align="center">
  <br/>
