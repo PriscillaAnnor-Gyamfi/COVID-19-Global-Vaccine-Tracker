@@ -7,6 +7,7 @@ The primary goal of this project is to provide a comprehensive overview of the C
 
 
 <h2>Key Metrics and Visualizations </h2>
+
 - <b>Population Vaccination Status: I visualized the calculated number of individuals who are partially vaccinated, fully vaccinated, and not vaccinated at all, aggregated at the country level.</b>
 - <b>Proportion of Population Fully Vaccinated: I displayed the calculated percentage of the population that has completed the full vaccination regimen in each country.</b>
 - <b>Trend Analysis: The progress of vaccination rates was tracked over time, starting from the project's specified start date (9/4/2020) to the end date (7/2/2022), using interactive line charts or time series plots.</b>
