@@ -7,20 +7,20 @@ The primary goal of this project is to provide a comprehensive overview of the C
 
 
 <h2>Key Metrics and Visualizations </h2>
-
-- <b>Population Vaccination Status: Visualize the number of individuals who are partially vaccinated, fully vaccinated, and not vaccinated at all, aggregated at the country level.</b>
-- <b>Proportion of Population Fully Vaccinated: Calculate and display the percentage of the population that has completed the full vaccination regimen in each country.</b>
-- <b>Trend Analysis: Track the progress of vaccination rates over time, starting from the project's specified start date (9/4/2020) to the end date (7/2/2022), using interactive line charts or time series plots.</b>
-- <b>GDP Per Capita Comparison: Compare the GDP per capita of countries with their vaccination rates to analyze any correlation or impact of vaccination on economic indicators.</b>
-- <b>Geographic Mapping: Visualize the vaccination coverage geographically using choropleth maps to depict regional disparities and trends.</b>
+Below are the key metrics I considered in the design of this dashboard:
+- <b>Population Vaccination Status: I visualized the calculated number of individuals who are partially vaccinated, fully vaccinated, and not vaccinated at all, aggregated at the country level.</b>
+- <b>Proportion of Population Fully Vaccinated: I displayed the calculated percentage of the population that has completed the full vaccination regimen in each country.</b>
+- <b>Trend Analysis: The progress of vaccination rates was tracked over time, starting from the project's specified start date (9/4/2020) to the end date (7/2/2022), using interactive line charts or time series plots.</b>
+- <b>GDP Per Capita Comparison: I compared the GDP per capita of countries with their vaccination rates to analyze any correlation or impact of vaccination on economic indicators.</b>
+- <b>Geographic Mapping: I visualized the vaccination coverage geographically using maps to depict regional disparities and trends.</b>
 
 
 <h2>Dashboard Features </h2>
 
-- <b>Interactive Filters: Allow users to filter data based on parameters such as date range, geographical country and continent.</b>
-- <b>Drill-Down Functionality: Enable users to explore detailed information by clicking on specific countries or continent to view vaccination metrics and associated GDP per capita.</b>
-- <b>Dynamic Data Updates: Implement automated data fetching and updating mechanisms to ensure that the dashboard reflects the most recent vaccination and GDP data.</b>
-- <b>User-Friendly Interface: Design an intuitive and visually appealing dashboard layout with clear navigation and informative tooltips to enhance user experience.
+- <b>Interactive Filters: Allows users to filter data based on parameters such as date range, geographical country and continent.</b>
+- <b>Drill-Down Functionality: Enables users to explore detailed information by clicking on specific countries or continent to view vaccination metrics and associated GDP per capita.</b>
+- <b>Dynamic Data Updates: Implements automated data fetching and updating mechanisms to ensure that the dashboard reflects the most recent vaccination and GDP data.</b>
+- <b>User-Friendly Interface: An intuitive and visually appealing dashboard layout with clear navigation and informative tooltips to enhance user experience.
 </b>
 
 
